@@ -1,0 +1,11 @@
+.navbar{
+    display:flexbox;
+    justify-content: space-around;
+    background-color:rgb(127, 251, 255);
+    font-size: xx-large;
+     font-family: 'Times New Roman', Times, serif;
+
+}
+.navbar a:hover{
+    color:black
+}
